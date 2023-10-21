@@ -1,0 +1,38 @@
+{
+  "name": "One dark pro",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 3,
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png"
+    },
+    "colors": {
+      "frame": [35, 39, 46],
+      "frame_inactive": [35, 39, 46],
+      "background_tab": [30, 34, 39],
+      "background_tab_inactive": [30, 34, 39],
+      "omnibox_background": [40, 44, 52],
+      "toolbar": [30, 34, 39],
+      "tab_text": [215, 218, 224],
+      "tab_background_text": [215, 218, 224],
+      "bookmark_text": [215, 218, 224],
+      "ntp_background": [35, 39, 46],
+      "ntp_text": [215, 218, 224],
+      "ntp_link": [77, 120, 204],
+      "button_background": [35, 39, 46, 1]
+    },
+    "tints": { 
+      "background_tab": [77, 120, 204],
+      "buttons": [0.61, 0.13, 0.86],
+      "frame": [35, 39, 46],
+      "frame_inactive": [35, 39, 46]
+     },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "repeat"
+    }
+  }
+}

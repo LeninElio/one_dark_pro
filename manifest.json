@@ -6,8 +6,7 @@
   "theme": {
     "images": {
       "theme_frame": "images/theme_frame.png",
-      "theme_toolbar": "images/theme_toolbar.png",
-      "theme_tab_background": "images/theme_tab_background.png"
+      "theme_toolbar": "images/theme_toolbar.png"
     },
     "colors": {
       "frame": [35, 39, 46],
@@ -22,14 +21,14 @@
       "ntp_background": [35, 39, 46],
       "ntp_text": [215, 218, 224],
       "ntp_link": [77, 120, 204],
-      "button_background": [35, 39, 46, 1]
+      "button_background": [0, 0, 0]
     },
     "tints": { 
       "background_tab": [77, 120, 204],
       "buttons": [0.61, 0.13, 0.86],
-      "frame": [35, 39, 46],
-      "frame_inactive": [35, 39, 46]
-     },
+      "frame": [160, 0, 0],
+      "frame_inactive": [160, 0, 0]
+    },
     "properties": {
       "ntp_background_alignment": "bottom",
       "ntp_background_repeat": "repeat"
